@@ -84,11 +84,11 @@ footer {
 
 @media (min-width: 1080px) {
     #название {
-        margin: 0 150px;
+        margin: 0 auto;
     }
     div,
     nav {
-        margin: 0 150px;
+        margin: 0 auto;
         padding: 4px;
         width: 960px;
     }
